@@ -1,0 +1,6 @@
+﻿test.get\_names\_of\_cities
+===========================
+
+.. currentmodule:: test
+
+.. autofunction:: get_names_of_cities

@@ -1,0 +1,6 @@
+﻿test.get\_sum
+=============
+
+.. currentmodule:: test
+
+.. autofunction:: get_sum
